@@ -1,0 +1,6 @@
+@mmoellerPearsonServices_HostAddress = http://localhost:5096
+
+GET {{mmoellerPearsonServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
